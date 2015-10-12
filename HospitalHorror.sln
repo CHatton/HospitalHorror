@@ -1,11 +1,11 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalHorror.CSharp.Plugins", "HospitalHorror.CSharp.Plugins.csproj", "{DC9BB540-892A-1742-5458-B5A787A73D8A}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{41220EC7-0A67-A9E4-0BFB-AA7F893C6BB8}") = "HospitalHorror", "Assembly-CSharp-firstpass.csproj", "{7017BA78-3816-7195-4DB2-530FA6E71AE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalHorror.CSharp", "HospitalHorror.CSharp.csproj", "{04534740-B494-A0DD-CC38-7DCA66A7BE10}"
+Project("{41220EC7-0A67-A9E4-0BFB-AA7F893C6BB8}") = "HospitalHorror", "Assembly-CSharp.csproj", "{78CA2716-6B26-D1EE-0C3A-5A3BA5A3DFBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalHorror.CSharp.Editor", "HospitalHorror.CSharp.Editor.csproj", "{D7739140-1EF0-C3F3-54D8-1CAE983695B3}"
+Project("{41220EC7-0A67-A9E4-0BFB-AA7F893C6BB8}") = "HospitalHorror", "Assembly-CSharp-Editor.csproj", "{7F6ADF2E-ED82-2EC9-BC60-BDC75A326FB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,20 +13,40 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DC9BB540-892A-1742-5458-B5A787A73D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DC9BB540-892A-1742-5458-B5A787A73D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DC9BB540-892A-1742-5458-B5A787A73D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DC9BB540-892A-1742-5458-B5A787A73D8A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{04534740-B494-A0DD-CC38-7DCA66A7BE10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{04534740-B494-A0DD-CC38-7DCA66A7BE10}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{04534740-B494-A0DD-CC38-7DCA66A7BE10}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{04534740-B494-A0DD-CC38-7DCA66A7BE10}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D7739140-1EF0-C3F3-54D8-1CAE983695B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D7739140-1EF0-C3F3-54D8-1CAE983695B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D7739140-1EF0-C3F3-54D8-1CAE983695B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D7739140-1EF0-C3F3-54D8-1CAE983695B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7017BA78-3816-7195-4DB2-530FA6E71AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7017BA78-3816-7195-4DB2-530FA6E71AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7017BA78-3816-7195-4DB2-530FA6E71AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7017BA78-3816-7195-4DB2-530FA6E71AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78CA2716-6B26-D1EE-0C3A-5A3BA5A3DFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78CA2716-6B26-D1EE-0C3A-5A3BA5A3DFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78CA2716-6B26-D1EE-0C3A-5A3BA5A3DFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78CA2716-6B26-D1EE-0C3A-5A3BA5A3DFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F6ADF2E-ED82-2EC9-BC60-BDC75A326FB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F6ADF2E-ED82-2EC9-BC60-BDC75A326FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F6ADF2E-ED82-2EC9-BC60-BDC75A326FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F6ADF2E-ED82-2EC9-BC60-BDC75A326FB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
+													GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
 EndGlobal
