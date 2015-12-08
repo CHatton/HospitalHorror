@@ -17,11 +17,19 @@ Loading E:\Programming\Unity\Projects\HospitalHorror\game_Data\Managed\UnityEngi
 Platform assembly: E:\Programming\Unity\Projects\HospitalHorror\game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading E:\Programming\Unity\Projects\HospitalHorror\game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: E:\Programming\Unity\Projects\HospitalHorror\game_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.096 seconds
+- Completed reload, in  0.049 seconds
 desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
 Platform assembly: E:\Programming\Unity\Projects\HospitalHorror\game_Data\Managed\System.dll (this message is harmless)
+on a desktop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 5288 -> priority: 1 
+  Thread -> id: 855c -> priority: 1 
+In here
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+

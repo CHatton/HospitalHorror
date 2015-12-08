@@ -70,6 +70,7 @@
      <Compile Include="Assets\CNControls\Scripts\Controllers\SimpleButton.cs" />
      <Compile Include="Assets\CNControls\Scripts\Controllers\SimpleJoystick.cs" />
      <Compile Include="Assets\CNControls\Scripts\Controllers\Touchpad.cs" />
+     <Compile Include="Assets\Quit.cs" />
      <Compile Include="Assets\Scripts\Doors.cs" />
      <Compile Include="Assets\Scripts\LockedDoor.cs" />
      <Compile Include="Assets\Scripts\cameraFollow.cs" />
