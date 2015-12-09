@@ -70,14 +70,16 @@
      <Compile Include="Assets\CNControls\Scripts\Controllers\SimpleButton.cs" />
      <Compile Include="Assets\CNControls\Scripts\Controllers\SimpleJoystick.cs" />
      <Compile Include="Assets\CNControls\Scripts\Controllers\Touchpad.cs" />
-     <Compile Include="Assets\Quit.cs" />
      <Compile Include="Assets\Scripts\Doors.cs" />
+     <Compile Include="Assets\Scripts\InfoText.cs" />
      <Compile Include="Assets\Scripts\LockedDoor.cs" />
+     <Compile Include="Assets\Scripts\Quit.cs" />
      <Compile Include="Assets\Scripts\cameraFollow.cs" />
      <Compile Include="Assets\Scripts\cameraSwitch.cs" />
      <Compile Include="Assets\Scripts\changeColour.cs" />
      <Compile Include="Assets\Scripts\disableCam.cs" />
      <Compile Include="Assets\Scripts\enableGUI.cs" />
+     <Compile Include="Assets\Scripts\flicker.cs" />
      <Compile Include="Assets\Scripts\initGame.cs" />
      <Compile Include="Assets\Scripts\key.cs" />
      <Compile Include="Assets\Scripts\moveAnimations.cs" />
