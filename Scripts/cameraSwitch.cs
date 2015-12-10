@@ -15,7 +15,6 @@ public class cameraSwitch : MonoBehaviour {
 
         if (col.tag.Equals("Player")) { // when the player enters this trigger
 
-        
             if (!enableCam.enabled) {
                 AudioSource source = GetComponent<AudioSource>();
                 source.Play();
@@ -35,9 +34,4 @@ public class cameraSwitch : MonoBehaviour {
 
         } // on collision with player
     } // onTriggerEnter
-
-    void Update() {
-
-  
-    }
 }

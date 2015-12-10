@@ -41,7 +41,6 @@ public class initGame : MonoBehaviour {
             if (Input.GetKey("return") == true && scriptFinshed == false)
                 // stop camera switching when game has begun
             {
-                info.enabled = true; // show the text box at the bottom
                 rec.enabled = true; // enable the top right REC
                 thisCamera.enabled = false; // disable the black camera
                 cam1.enabled = true; // enable the starting camerage
@@ -59,7 +58,7 @@ public class initGame : MonoBehaviour {
             {
                 
                 touchPad.enabled = true; // enable the touch controls
-                info.enabled = true; // show the text box at the bottom
+    
                 rec.enabled = true; // enable the top right REC
                 thisCamera.enabled = false; // disable the black camera
                 cam1.enabled = true; // enable the starting camerage

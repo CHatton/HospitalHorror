@@ -74,6 +74,7 @@
      <Compile Include="Assets\Scripts\InfoText.cs" />
      <Compile Include="Assets\Scripts\LockedDoor.cs" />
      <Compile Include="Assets\Scripts\Quit.cs" />
+     <Compile Include="Assets\Scripts\activateDoor.cs" />
      <Compile Include="Assets\Scripts\cameraFollow.cs" />
      <Compile Include="Assets\Scripts\cameraSwitch.cs" />
      <Compile Include="Assets\Scripts\changeColour.cs" />
@@ -82,9 +83,11 @@
      <Compile Include="Assets\Scripts\flicker.cs" />
      <Compile Include="Assets\Scripts\initGame.cs" />
      <Compile Include="Assets\Scripts\key.cs" />
+     <Compile Include="Assets\Scripts\makeGreen.cs" />
      <Compile Include="Assets\Scripts\moveAnimations.cs" />
      <Compile Include="Assets\Scripts\newMove.cs" />
      <Compile Include="Assets\Scripts\playerTouchControls.cs" />
+     <Compile Include="Assets\powerDoor.cs" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />

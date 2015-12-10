@@ -3,15 +3,11 @@ using System.Collections;
 using UnityEngine.UI;
 
 public class key : MonoBehaviour {
-
-    
-    public Text info;
     public GameObject TheKey;
     bool playerNextToKey = false;
 
     void Update() {
         if (Input.GetKeyDown(KeyCode.E) && playerNextToKey == true) {
-            info.text = "Test subject picked up the keycard";
             TheKey.SetActive(false);           
         }
     } // Update
