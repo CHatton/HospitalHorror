@@ -1,0 +1,17 @@
+E:\Programming\Unity\Projects\HospitalHorror\bin\UWP\ARM\Release\Assembly-CSharp.dll
+E:\Programming\Unity\Projects\HospitalHorror\bin\UWP\ARM\Release\Assembly-CSharp.pdb
+E:\Programming\Unity\Projects\HospitalHorror\bin\UWP\ARM\Release\Assembly-CSharp.pri
+E:\Programming\Unity\Projects\HospitalHorror\obj\UWP\ARM\Release\ARM\Release\Assembly-CSharp-uwp.csprojResolveAssemblyReference.cache
+E:\Programming\Unity\Projects\HospitalHorror\obj\UWP\ARM\Release\ARM\Release\Assembly-CSharp.dll
+E:\Programming\Unity\Projects\HospitalHorror\obj\UWP\ARM\Release\ARM\Release\Assembly-CSharp.pdb
+E:\Programming\Unity\Projects\HospitalHorror\obj\UWP\ARM\Release\ARM\Release\priconfig.xml
+E:\Programming\Unity\Projects\HospitalHorror\obj\UWP\ARM\Release\ARM\Release\priconfig.xml.intermediate
+E:\Programming\Unity\Projects\HospitalHorror\obj\UWP\ARM\Release\ARM\Release\layout.resfiles
+E:\Programming\Unity\Projects\HospitalHorror\obj\UWP\ARM\Release\ARM\Release\layout.resfiles.intermediate
+E:\Programming\Unity\Projects\HospitalHorror\obj\UWP\ARM\Release\ARM\Release\resources.resfiles
+E:\Programming\Unity\Projects\HospitalHorror\obj\UWP\ARM\Release\ARM\Release\resources.resfiles.intermediate
+E:\Programming\Unity\Projects\HospitalHorror\obj\UWP\ARM\Release\ARM\Release\pri.resfiles
+E:\Programming\Unity\Projects\HospitalHorror\obj\UWP\ARM\Release\ARM\Release\pri.resfiles.intermediate
+E:\Programming\Unity\Projects\HospitalHorror\obj\UWP\ARM\Release\ARM\Release\qualifiers.txt
+E:\Programming\Unity\Projects\HospitalHorror\obj\UWP\ARM\Release\ARM\Release\qualifiers.txt.intermediate
+E:\Programming\Unity\Projects\HospitalHorror\obj\UWP\ARM\Release\ARM\Release\MultipleQualifiersPerDimensionFound.txt

@@ -19,13 +19,15 @@ public class initGame : MonoBehaviour {
 
     public Camera thisCamera;
     public Camera cam1;
+    
 
     bool scriptFinshed = false;
 
 	// Use this for initialization
 	void Start () {
+        
         if (SystemInfo.deviceType == DeviceType.Desktop) {
-            introText.text = "Press ENTER to begin recording...";
+            introText.text = "Press W,A,S,D to walk around\nPress E to interact\nPress ESC to quit the game.\n\nPress ENTER to begin recording...";
             // different message depending on platform
         } else if (SystemInfo.deviceType == DeviceType.Handheld) {
             introText.text = "Tap screen to begin recording...";
@@ -41,13 +43,14 @@ public class initGame : MonoBehaviour {
             if (Input.GetKey("return") == true && scriptFinshed == false)
                 // stop camera switching when game has begun
             {
-                rec.enabled = true; // enable the top right REC
+                rec.enabled = true; // enable the top left REC
                 thisCamera.enabled = false; // disable the black camera
                 cam1.enabled = true; // enable the starting camerage
                 introText.text = ""; // set the text to start off as an empty String
                 player.SetActive(true); // activate the player
                 title.text = ""; // disable the title text
                 scriptFinshed = true; // trigger game to start
+   
             }
         }
         else if (SystemInfo.deviceType == DeviceType.Handheld)
